@@ -15,11 +15,6 @@ nav {
 
 }
 
-h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
 .squirtle-left {
     margin-top: 50px;
